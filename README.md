@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayverma99
 - 👀 I’m interested in Web Apps, 3D Tooling, and Scrapers
-- 📫 How to reach me akshay99@hey.com
+- 📫 You can reach me @ akshay99@hey.com
 
 <!---
 akshayverma99/akshayverma99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
